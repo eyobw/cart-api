@@ -1,0 +1,14 @@
+language: php
+
+php:
+  - 7
+
+before_script:
+  - composer self-update
+  - composer require 'cakephp/cakephp-codesniffer:dev-master'
+
+script:
+  - vendor/bin/phpcs -n -p --extensions=php --standard=vendor/cakephp/cakephp-codesniffer/CakePHP src/ config/
+
+notifications:
+  email: false

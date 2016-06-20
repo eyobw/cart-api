@@ -1,0 +1,187 @@
+2016-06-18 06:55:21 Warning: Warning (2): unlink(/var/www/html/shopping-cart/src/Model/Table/empty): Permission denied in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Filesystem/File.php, line 279]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+unlink - [internal], line ??
+Cake\Filesystem\File::delete() - CORE/src/Filesystem/File.php, line 279
+Bake\Shell\Task\BakeTask::_deleteEmptyFile() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTask.php, line 201
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 859
+Bake\Shell\Task\ModelTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 110
+Bake\Shell\Task\ModelTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 96
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 250
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-18 06:55:21 Warning: Warning (2): unlink(/var/www/html/shopping-cart/src/Model/Entity/empty): Permission denied in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Filesystem/File.php, line 279]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+unlink - [internal], line ??
+Cake\Filesystem\File::delete() - CORE/src/Filesystem/File.php, line 279
+Bake\Shell\Task\BakeTask::_deleteEmptyFile() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTask.php, line 201
+Bake\Shell\Task\ModelTask::bakeEntity() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 802
+Bake\Shell\Task\ModelTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 111
+Bake\Shell\Task\ModelTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 96
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 250
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-18 06:55:21 Warning: Warning (2): unlink(/var/www/html/shopping-cart/tests/Fixture/empty): Permission denied in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Filesystem/File.php, line 279]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+unlink - [internal], line ??
+Cake\Filesystem\File::delete() - CORE/src/Filesystem/File.php, line 279
+Bake\Shell\Task\BakeTask::_deleteEmptyFile() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTask.php, line 201
+Bake\Shell\Task\FixtureTask::generateFixtureFile() - ROOT/vendor/cakephp/bake/src/Shell/Task/FixtureTask.php, line 232
+Bake\Shell\Task\FixtureTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/FixtureTask.php, line 196
+Bake\Shell\Task\ModelTask::bakeFixture() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 1021
+Bake\Shell\Task\ModelTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 112
+Bake\Shell\Task\ModelTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 96
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 250
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-18 06:55:21 Warning: Warning (2): mkdir(): Permission denied in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Filesystem/Folder.php, line 615]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+mkdir - [internal], line ??
+Cake\Filesystem\Folder::create() - CORE/src/Filesystem/Folder.php, line 615
+Cake\Filesystem\Folder::__construct() - CORE/src/Filesystem/Folder.php, line 145
+Cake\Filesystem\File::__construct() - CORE/src/Filesystem/File.php, line 86
+Cake\Console\Shell::createFile() - CORE/src/Console/Shell.php, line 808
+Bake\Shell\Task\TestTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/TestTask.php, line 274
+Bake\Shell\Task\ModelTask::bakeTest() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 1037
+Bake\Shell\Task\ModelTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 113
+Bake\Shell\Task\ModelTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 96
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 250
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-18 06:55:21 Warning: Warning (2): mkdir(): Permission denied in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Filesystem/Folder.php, line 615]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+mkdir - [internal], line ??
+Cake\Filesystem\Folder::create() - CORE/src/Filesystem/Folder.php, line 615
+Cake\Filesystem\Folder::__construct() - CORE/src/Filesystem/Folder.php, line 145
+Cake\Filesystem\File::__construct() - CORE/src/Filesystem/File.php, line 86
+Cake\Console\Shell::createFile() - CORE/src/Console/Shell.php, line 808
+Bake\Shell\Task\TemplateTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 389
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 153
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-18 06:55:21 Warning: Warning (2): mkdir(): Permission denied in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Filesystem/Folder.php, line 615]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+mkdir - [internal], line ??
+Cake\Filesystem\Folder::create() - CORE/src/Filesystem/Folder.php, line 615
+Cake\Filesystem\Folder::__construct() - CORE/src/Filesystem/Folder.php, line 145
+Cake\Filesystem\File::__construct() - CORE/src/Filesystem/File.php, line 86
+Cake\Console\Shell::createFile() - CORE/src/Console/Shell.php, line 808
+Bake\Shell\Task\TemplateTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 389
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 153
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-18 06:55:21 Warning: Warning (2): mkdir(): Permission denied in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Filesystem/Folder.php, line 615]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+mkdir - [internal], line ??
+Cake\Filesystem\Folder::create() - CORE/src/Filesystem/Folder.php, line 615
+Cake\Filesystem\Folder::__construct() - CORE/src/Filesystem/Folder.php, line 145
+Cake\Filesystem\File::__construct() - CORE/src/Filesystem/File.php, line 86
+Cake\Console\Shell::createFile() - CORE/src/Console/Shell.php, line 808
+Bake\Shell\Task\TemplateTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 389
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 153
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-18 06:55:21 Warning: Warning (2): mkdir(): Permission denied in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Filesystem/Folder.php, line 615]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+mkdir - [internal], line ??
+Cake\Filesystem\Folder::create() - CORE/src/Filesystem/Folder.php, line 615
+Cake\Filesystem\Folder::__construct() - CORE/src/Filesystem/Folder.php, line 145
+Cake\Filesystem\File::__construct() - CORE/src/Filesystem/File.php, line 86
+Cake\Console\Shell::createFile() - CORE/src/Console/Shell.php, line 808
+Bake\Shell\Task\TemplateTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 389
+Bake\Shell\Task\TemplateTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/TemplateTask.php, line 153
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 252
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 253
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 444
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+
+2016-06-18 12:06:32 Warning: Warning (2): fopen(/var/www/html/shopping-cart/config/bootstrap.php): failed to open stream: Permission denied in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Filesystem/File.php, line 136]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+fopen - [internal], line ??
+Cake\Filesystem\File::open() - CORE/src/Filesystem/File.php, line 136
+Cake\Filesystem\File::write() - CORE/src/Filesystem/File.php, line 225
+Cake\Filesystem\File::append() - CORE/src/Filesystem/File.php, line 251
+Cake\Shell\Task\LoadTask::_modifyBootstrap() - CORE/src/Shell/Task/LoadTask.php, line 80
+Cake\Shell\Task\LoadTask::main() - CORE/src/Shell/Task/LoadTask.php, line 54
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 456
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 450
+Cake\Console\ShellDispatcher::_dispatch() - CORE/src/Console/ShellDispatcher.php, line 217
+Cake\Console\ShellDispatcher::dispatch() - CORE/src/Console/ShellDispatcher.php, line 181
+Cake\Console\ShellDispatcher::run() - CORE/src/Console/ShellDispatcher.php, line 127
+[main] - ROOT/bin/cake.php, line 33
+
+
+

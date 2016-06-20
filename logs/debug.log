@@ -1,0 +1,1296 @@
+2016-06-18 16:54:11 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /products.json
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::delimit() - CORE/src/Utility/Inflector.php, line 662
+Cake\Utility\Inflector::underscore() - CORE/src/Utility/Inflector.php, line 608
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 322
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:11 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /products.json
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::delimit() - CORE/src/Utility/Inflector.php, line 666
+Cake\Utility\Inflector::underscore() - CORE/src/Utility/Inflector.php, line 608
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 322
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:11 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /products.json
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:11 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /products.json
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:11 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /products.json
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:11 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /products.json
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:11 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /products.json
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:23 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::delimit() - CORE/src/Utility/Inflector.php, line 662
+Cake\Utility\Inflector::underscore() - CORE/src/Utility/Inflector.php, line 608
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 322
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:23 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::delimit() - CORE/src/Utility/Inflector.php, line 666
+Cake\Utility\Inflector::underscore() - CORE/src/Utility/Inflector.php, line 608
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 322
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:23 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:23 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:23 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:23 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:23 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:23 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::camelize() - CORE/src/Utility/Inflector.php, line 587
+Cake\Routing\Route\DashedRoute::parse() - CORE/src/Routing/Route/DashedRoute.php, line 68
+Cake\Routing\RouteCollection::parse() - CORE/src/Routing/RouteCollection.php, line 125
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 338
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:23 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::humanize() - CORE/src/Utility/Inflector.php, line 637
+Cake\Utility\Inflector::camelize() - CORE/src/Utility/Inflector.php, line 590
+Cake\Routing\Route\DashedRoute::parse() - CORE/src/Routing/Route/DashedRoute.php, line 68
+Cake\Routing\RouteCollection::parse() - CORE/src/Routing/RouteCollection.php, line 125
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 338
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:23 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::humanize() - CORE/src/Utility/Inflector.php, line 645
+Cake\Utility\Inflector::camelize() - CORE/src/Utility/Inflector.php, line 590
+Cake\Routing\Route\DashedRoute::parse() - CORE/src/Routing/Route/DashedRoute.php, line 68
+Cake\Routing\RouteCollection::parse() - CORE/src/Routing/RouteCollection.php, line 125
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 338
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:23 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::camelize() - CORE/src/Utility/Inflector.php, line 591
+Cake\Routing\Route\DashedRoute::parse() - CORE/src/Routing/Route/DashedRoute.php, line 68
+Cake\Routing\RouteCollection::parse() - CORE/src/Routing/RouteCollection.php, line 125
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 338
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:35 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::delimit() - CORE/src/Utility/Inflector.php, line 662
+Cake\Utility\Inflector::underscore() - CORE/src/Utility/Inflector.php, line 608
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 322
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:35 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::delimit() - CORE/src/Utility/Inflector.php, line 666
+Cake\Utility\Inflector::underscore() - CORE/src/Utility/Inflector.php, line 608
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 322
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:35 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:35 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:35 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:35 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:35 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:35 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::camelize() - CORE/src/Utility/Inflector.php, line 587
+Cake\Routing\Route\DashedRoute::parse() - CORE/src/Routing/Route/DashedRoute.php, line 68
+Cake\Routing\RouteCollection::parse() - CORE/src/Routing/RouteCollection.php, line 125
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 338
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:35 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::humanize() - CORE/src/Utility/Inflector.php, line 637
+Cake\Utility\Inflector::camelize() - CORE/src/Utility/Inflector.php, line 590
+Cake\Routing\Route\DashedRoute::parse() - CORE/src/Routing/Route/DashedRoute.php, line 68
+Cake\Routing\RouteCollection::parse() - CORE/src/Routing/RouteCollection.php, line 125
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 338
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:35 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::humanize() - CORE/src/Utility/Inflector.php, line 645
+Cake\Utility\Inflector::camelize() - CORE/src/Utility/Inflector.php, line 590
+Cake\Routing\Route\DashedRoute::parse() - CORE/src/Routing/Route/DashedRoute.php, line 68
+Cake\Routing\RouteCollection::parse() - CORE/src/Routing/RouteCollection.php, line 125
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 338
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:35 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::camelize() - CORE/src/Utility/Inflector.php, line 591
+Cake\Routing\Route\DashedRoute::parse() - CORE/src/Routing/Route/DashedRoute.php, line 68
+Cake\Routing\RouteCollection::parse() - CORE/src/Routing/RouteCollection.php, line 125
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 338
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:43 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /products
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::delimit() - CORE/src/Utility/Inflector.php, line 662
+Cake\Utility\Inflector::underscore() - CORE/src/Utility/Inflector.php, line 608
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 322
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:43 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /products
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::delimit() - CORE/src/Utility/Inflector.php, line 666
+Cake\Utility\Inflector::underscore() - CORE/src/Utility/Inflector.php, line 608
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 322
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:43 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /products
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:43 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /products
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:43 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /products
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:43 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /products
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:43 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /products
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:53 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::delimit() - CORE/src/Utility/Inflector.php, line 662
+Cake\Utility\Inflector::underscore() - CORE/src/Utility/Inflector.php, line 608
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 322
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:53 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::delimit() - CORE/src/Utility/Inflector.php, line 666
+Cake\Utility\Inflector::underscore() - CORE/src/Utility/Inflector.php, line 608
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 322
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:53 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:53 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:53 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:53 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:53 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:53 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::camelize() - CORE/src/Utility/Inflector.php, line 587
+Cake\Routing\Route\DashedRoute::parse() - CORE/src/Routing/Route/DashedRoute.php, line 68
+Cake\Routing\RouteCollection::parse() - CORE/src/Routing/RouteCollection.php, line 125
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 338
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:53 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::humanize() - CORE/src/Utility/Inflector.php, line 637
+Cake\Utility\Inflector::camelize() - CORE/src/Utility/Inflector.php, line 590
+Cake\Routing\Route\DashedRoute::parse() - CORE/src/Routing/Route/DashedRoute.php, line 68
+Cake\Routing\RouteCollection::parse() - CORE/src/Routing/RouteCollection.php, line 125
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 338
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:53 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::humanize() - CORE/src/Utility/Inflector.php, line 645
+Cake\Utility\Inflector::camelize() - CORE/src/Utility/Inflector.php, line 590
+Cake\Routing\Route\DashedRoute::parse() - CORE/src/Routing/Route/DashedRoute.php, line 68
+Cake\Routing\RouteCollection::parse() - CORE/src/Routing/RouteCollection.php, line 125
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 338
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:54:53 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /1
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::camelize() - CORE/src/Utility/Inflector.php, line 591
+Cake\Routing\Route\DashedRoute::parse() - CORE/src/Routing/Route/DashedRoute.php, line 68
+Cake\Routing\RouteCollection::parse() - CORE/src/Routing/RouteCollection.php, line 125
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 338
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:55:18 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /products.json
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::delimit() - CORE/src/Utility/Inflector.php, line 662
+Cake\Utility\Inflector::underscore() - CORE/src/Utility/Inflector.php, line 608
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 322
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:55:18 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Utility/Inflector.php, line 424]
+Request URL: /products.json
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Utility\Inflector::_cache() - CORE/src/Utility/Inflector.php, line 424
+Cake\Utility\Inflector::delimit() - CORE/src/Utility/Inflector.php, line 666
+Cake\Utility\Inflector::underscore() - CORE/src/Utility/Inflector.php, line 608
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 322
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:55:18 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /products.json
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:55:18 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /products.json
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:55:18 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /products.json
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:55:18 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /products.json
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
+2016-06-18 16:55:18 Notice: Notice (8): Array to string conversion in [/var/www/html/shopping-cart/vendor/cakephp/cakephp/src/Routing/Route/Route.php, line 252]
+Request URL: /products.json
+Client IP: 127.0.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\Routing\Route\Route::getName() - CORE/src/Routing/Route/Route.php, line 252
+Cake\Routing\RouteCollection::add() - CORE/src/Routing/RouteCollection.php, line 84
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 457
+Cake\Routing\RouteBuilder::resources() - CORE/src/Routing/RouteBuilder.php, line 351
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 49
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 655
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 879
+include - ROOT/config/routes.php, line 80
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 969
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 333
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 55
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 390
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 356
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 36
+
+
+
